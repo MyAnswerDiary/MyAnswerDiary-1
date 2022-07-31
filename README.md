@@ -43,3 +43,7 @@ $ source myvenv/Scripts/activate
 ```
 $ cd MyAnswerDiaryPrj/
 ```
+4️⃣ 서버 실행
+```
+$ python manage.py runserver
+```
