@@ -28,13 +28,13 @@
 $ git clone https://github.com/MyAnswerDiary/MyAnswerDiary.git
 ```
 
-2️⃣ HowIsTheWeatherToday2 프로젝트로 폴더 이동
+2️⃣ 프로젝트로 폴더 이동
 
 ```
 $ cd MyAnswerDiaryPrj/
 ```
 
-3️⃣ HowIsTheWeatherToday2 폴더 바로 아래에 별도로 제공되는 .env 파일이 있어야한다. 민감한 내용이 담겨있어 별도로 따로 제공한다. </br> 
+3️⃣ 가상환경 실행하기
 ```
 $ source myvenv/bin/activate
 ```
