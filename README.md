@@ -33,13 +33,13 @@
 $ git clone https://github.com/MyAnswerDiary/MyAnswerDiary.git
 ```
 
-2️⃣ 프로젝트로 폴더 이동
+2️⃣ 가상환경 실행하기
+```
+$ source myvenv/Scripts/activate
+```
+
+3️⃣ 프로젝트로 폴더 이동
 
 ```
 $ cd MyAnswerDiaryPrj/
-```
-
-3️⃣ 가상환경 실행하기
-```
-$ source myvenv/Scripts/activate
 ```
