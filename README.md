@@ -18,3 +18,22 @@
 - 일기 키워드 검색
 - 나만의 감정 통계 그래프 확인
 - 365 Q&A
+
+
+<h1>Manual</h1>
+
+1️⃣ Git Clone </br>
+
+```
+$ git clone 
+```
+
+2️⃣ HowIsTheWeatherToday2 프로젝트로 폴더 이동
+
+```
+$ cd MyAnswerDiaryPrj/
+
+3️⃣ HowIsTheWeatherToday2 폴더 바로 아래에 별도로 제공되는 .env 파일이 있어야한다. 민감한 내용이 담겨있어 별도로 따로 제공한다. </br> 
+```
+$ source myvenv/bin/activate
+```
