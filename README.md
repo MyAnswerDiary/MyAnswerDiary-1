@@ -11,6 +11,12 @@
 |백|Django|
 
 
+## 팀원
+- 기획/디자인 : 박다비다</br>
+- 프론트엔드 : 이소윤, 이지현, 전소정</br>
+- 벡엔드 : 김민희, 양성원, 윤수윤</br>
+
+
 ## 주요 기능
 - 회원가입, 로그인
 - 일기 작성
@@ -27,13 +33,17 @@
 $ git clone https://github.com/MyAnswerDiary/MyAnswerDiary.git
 ```
 
-2️⃣ 프로젝트로 폴더 이동
+2️⃣ 가상환경 실행하기
+```
+$ source myvenv/Scripts/activate
+```
+
+3️⃣ 프로젝트로 폴더 이동
 
 ```
 $ cd MyAnswerDiaryPrj/
 ```
-
-3️⃣ 가상환경 실행하기
+4️⃣ 서버 실행
 ```
-$ source myvenv/bin/activate
+$ python manage.py runserver
 ```
