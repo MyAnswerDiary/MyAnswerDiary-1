@@ -41,5 +41,5 @@ $ cd MyAnswerDiaryPrj/
 
 3️⃣ 가상환경 실행하기
 ```
-$ source myvenv/bin/activate
+$ source myvenv//activate
 ```
